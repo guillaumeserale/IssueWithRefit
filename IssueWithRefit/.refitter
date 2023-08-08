@@ -1,0 +1,7 @@
+{
+  "openApiPath": "apispec.json", // Required  
+  "naming": {
+    "useOpenApiTitle": false, // Optional. Default=true
+    "interfaceName": "MyApiClient" // Optional. Default=ApiClient
+  }
+}
